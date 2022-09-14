@@ -1,7 +1,7 @@
 # 7zipper
 Used to Zip your folder using 7-zip
 
-# Prerequisite
+## Prerequisite
 
 - You PC must have a 7-zip software and make sure to put it on Path Environment Variable.
 
